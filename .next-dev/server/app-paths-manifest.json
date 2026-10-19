@@ -1,0 +1,11 @@
+{
+  "/api/notifications/route": "app/api/notifications/route.js",
+  "/api/support/unread/route": "app/api/support/unread/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/signin/page": "app/signin/page.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/cohorts/page": "app/cohorts/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/certificates/page": "app/certificates/page.js"
+}
